@@ -89,3 +89,19 @@ footer {
 #nav a:hover {
     color: lightblue;
 }
+
+.imgLeft {
+    float: left;
+    width: 240px;
+    height: 150px;
+    margin 0px 10px 10px 0;
+    padding: 10px;
+}
+
+.imgRight {
+    float: right;
+    width: 200px;
+    height: 250px;
+    margin: 0px 0 10px 10px;
+    padding: 10px;
+}
